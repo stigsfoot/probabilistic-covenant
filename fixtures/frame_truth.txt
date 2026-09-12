@@ -1,0 +1,13 @@
+# DRAFT GROUND TRUTH. VERIFY EVERY LINE AGAINST fixtures/frame.jpg BEFORE STAGE.
+# This is the reference the grounding gate judges against, so it must be yours.
+# Lines starting with # are notes to you. They are stripped before the judge sees
+# this file and never appear on stage, so rewrite the body freely.
+
+A single still photograph from a football match. A player in a white kit has the ball
+in the middle third of the pitch. At least one opposing player in a darker kit is
+nearby. Several other players are visible in the frame.
+
+It is one frozen instant. No movement, direction, speed, sequence, or intent is
+depicted or inferable from the image itself. The image does not show anyone
+driving, chasing, recovering, or transitioning. It shows where people were standing
+at the moment the shutter closed.

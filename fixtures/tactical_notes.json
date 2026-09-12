@@ -1,0 +1,13 @@
+{
+  "_source": "REAL DATA. Verbatim from ai-copa-chalkboard docs/codelab-verification-findings.md, Workstream 3 results, 2026-06-07. Same image, same prompt, five runs through run_pipeline_local on gemini-3.5-flash. Every run: valid JSON, 7 players, gate score 100.",
+  "image": "Sulley_Muntari_(Ghana_national_football_team).jpg (Wikimedia Commons, CC-licensed)",
+  "primary": 0,
+  "notes": [
+    "The attacker in white (number 11) drives forward through the midfield under close pressure from the defender in blue (number 17).",
+    "The home team midfielder drives forward in possession under close pressure from defenders.",
+    "Ghana player number 11 is shielding the ball and driving forward under close pressure from a recovering defender.",
+    "White 11 is driving forward dynamically through the midfield, shielding the ball while under pressure from chasing defenders.",
+    "Ghana's number 11 drives through the center of the pitch, shielding the ball from multiple defenders during a midfield transition."
+  ],
+  "gate_scores": [100, 100, 100, 100, 100]
+}

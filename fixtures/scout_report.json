@@ -1,0 +1,48 @@
+{
+  "players_detected": 7,
+  "player_positions": [
+    {
+      "team": "home",
+      "zone": "midfield",
+      "approx_x": 12,
+      "approx_y": 43
+    },
+    {
+      "team": "away",
+      "zone": "midfield",
+      "approx_x": 15,
+      "approx_y": 52
+    },
+    {
+      "team": "away",
+      "zone": "midfield",
+      "approx_x": 22,
+      "approx_y": 45
+    },
+    {
+      "team": "home",
+      "zone": "midfield",
+      "approx_x": 39,
+      "approx_y": 39
+    },
+    {
+      "team": "home",
+      "zone": "midfield",
+      "approx_x": 40,
+      "approx_y": 59
+    },
+    {
+      "team": "home",
+      "zone": "midfield",
+      "approx_x": 47,
+      "approx_y": 52
+    },
+    {
+      "team": "away",
+      "zone": "midfield",
+      "approx_x": 68,
+      "approx_y": 52
+    }
+  ],
+  "ball_zone": "midfield"
+}

@@ -1,0 +1,11 @@
+{
+  "summary": "The match is currently congested in the midfield zone with all seven detected players occupying this area. The home team maintains a 4v3 numerical advantage in this sector, though the away team has an isolated advanced outlet positioned high up the pitch.",
+  "key_observations": [
+    "All detected players are concentrated entirely in the midfield zone.",
+    "Home team holds a 4v3 numerical superiority in the central area.",
+    "A tight cluster of three home players is situated between x=39 and x=47.",
+    "An isolated away midfielder at x=68 is positioned high, posing a transition threat."
+  ],
+  "recommended_adjustment": "Instruct the deepest home midfielder to drop and screen the passing lane to the isolated away midfielder at x=68 to prevent a quick counter-attack.",
+  "confidence": "medium"
+}

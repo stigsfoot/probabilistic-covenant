@@ -1,0 +1,16 @@
+[project]
+name = "probabilistic-covenant"
+version = "0.1.0"
+description = "Live keynote demo: the real Copa Chalkboard gate scores 100/100 on output that narrates motion from a still photograph."
+requires-python = ">=3.11"
+dependencies = [
+    "pytest>=8",
+    "deepeval==4.2.2",
+    # The real gate and the real schema, imported from the published package and
+    # pinned to a commit. This is the point: the green is the actual shipped gate.
+    "copa-chalkboard @ git+https://github.com/stigsfoot/ai-copa-chalkboard@ba252c355345952cb6de602c7b0b7704e9bd74d5",
+    "ollama>=0.6.2",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

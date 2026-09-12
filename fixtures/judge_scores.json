@@ -1,0 +1,18 @@
+{
+  "_comment": "PLACEHOLDER. No judge has run. The numbers below are shaped, not measured, so ship.py refuses to display them. Run eval/faithfulness.py (README step 6) to overwrite this file with real scores; it writes placeholder=false and the numbers appear on stage.",
+  "placeholder": true,
+  "metric": "deepeval.FaithfulnessMetric",
+  "judge": "gemma3:4b (local via Ollama, temperature=0)",
+  "context": [
+    "fixtures/frame_truth.txt",
+    "fixtures/scout_report.json"
+  ],
+  "primary": 0.5,
+  "all": [
+    0.5,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ]
+}

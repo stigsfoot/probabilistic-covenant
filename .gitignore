@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# GEMINI_API_KEY lives here during the offline phase. Never commit it.
+.env
+.env.*
+!.env.example
+
+# DeepEval's local cache and telemetry state, written by eval/faithfulness.py.
+.deepeval/
+.deepeval-cache.json
+
+# A CC-licensed Wikimedia photo, not ours to redistribute. README 'Get the image'
+# has the one-line curl. The stage path never reads it.
+fixtures/frame.jpg
